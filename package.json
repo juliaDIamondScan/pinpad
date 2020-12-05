@@ -1,0 +1,16 @@
+{
+  "name": "DiamondScan_PinPad_Simulator",
+  "main": "index.html",
+  "window": {
+    "show": true,
+    "frame": true,
+    "toolbar": true,
+    "always_on_top": true,
+    "fullscreen": false,
+    "show_in_taskbar": true,
+    "transparent": false,
+    "icon": "app.icns",
+    "width": 400,
+    "height": 600
+  }
+}
